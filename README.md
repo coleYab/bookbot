@@ -1,2 +1,2 @@
 # bookbot
-First assisted project on boot.dev
+BookBot is my first project under bootdev.
